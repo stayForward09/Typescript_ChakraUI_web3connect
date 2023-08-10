@@ -5,7 +5,7 @@ Built with Create React App + Typescript + Web3 + Chakra-UI
 ## Instruction
 
 ```
-git clone https://github.com/Greenice/web3-connect.git
+git clone https://github.com/Greenice9/web3-connect.git
 cd web3-connect.git
 npm install
 npm run start
